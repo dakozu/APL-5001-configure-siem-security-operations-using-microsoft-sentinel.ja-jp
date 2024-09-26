@@ -57,7 +57,7 @@ Microsoft Sentinel でほぼリアルタイム (NRT) の分析ルールを使用
 
  1. `Microsoft Sentinel` で、`Configuration` メニュー セクションに移動し、**[分析]** を選択します
  1. **[+ 作成]** を選択し、 **[NRT クエリ ルール (プレビュー)]** を選択します
- 1. ルールの `Name` を入力し、`Tactics and techniques` から **[特権エスカレーション]** を選択します。
+ 1. ルールの `Name` を入力し、`Tactics and techniques` から **[Privilege Escalation]** を選択します。
  1. **[次へ: ルール ロジックの設定 >]** を選択します
  1. `Rule query` フォームに KQL クエリを入力します
 
