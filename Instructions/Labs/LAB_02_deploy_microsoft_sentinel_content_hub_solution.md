@@ -84,8 +84,8 @@ Microsoft Defender for Cloud のデータ コネクタを構成し、インシ�
 疑わしい数のリソース作成またはデプロイ アクティビティ テンプレートに基づいて分析ルールを作成します。 ルールは 1 時間ごとに実行し、その過去 1 時間のデータのみを参照する必要があります。 詳細については、[Microsoft Sentinel Analytic ルール テンプレートの使用](https://learn.microsoft.com/azure/sentinel/detect-threats-built-in)を参照してください。
 
   1. `Microsoft Sentinel` で、`Configuration` メニュー セクションに移動し、**[分析]** を選択します。
-  1. `Rule templates` タブで、**疑わしい数のリソース作成アクティビティまたはデプロイ アクティビティ**を検索します。
-  1. **[疑わしい数のリソース作成アクティビティまたはデプロイ アクティビティ]** を選択し、**[ルールの作成]** を選択します。
+  1. `Rule templates` タブで、**Suspicious number of resource creation or deployment activities**を検索します。
+  1. **[Suspicious number of resource creation or deployment activities]** を選択し、**[ルールの作成]** を選択します。
   1. `General` タブの既定値をそのままにして、**[次へ: ルール ロジックの設定 >]** を選択します。
   1. 既定の `Rule query` のままにし、テーブルを使用して `Query scheduling` を構成します。
 
