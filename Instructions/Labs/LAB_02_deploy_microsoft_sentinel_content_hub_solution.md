@@ -40,7 +40,7 @@ Microsoft Sentinel ワークスペースにコンテンツ ハブのソリュー
 コンテンツ ハブのソリューションをデプロイし、データ コネクタを構成します。 詳細については、[コンテンツ ハブのソリューション](https://learn.microsoft.com/azure/sentinel/sentinel-solutions)を参照してください。
 
 1. `Microsoft Sentinel` で、`Content management` メニュー セクションに移動し、**[コンテンツ ハブ]** を選択します
-1. **Windows セキュリティ イベント**を検索して選択します
+1. **Windows Security Events**を検索して選択します
 1. **[詳細の表示]** のリンクを選択します
 1. Windows セキュリティ イベント プランを選択し、**[作成]** を選択します。
 1. Microsoft Sentinel ワークスペースを含む `RG2` リソース グループを選択し、`Workspace` を選択します。
