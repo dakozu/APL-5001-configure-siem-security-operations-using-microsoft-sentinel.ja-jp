@@ -31,7 +31,7 @@ Microsoft Sentinel ワークスペースをデプロイする必要がありま�
 ### タスク 1 - Log Analytics ワークスペースを作成する
 
 リージョン オプションを含む Log Analytics ワークスペースを作成します。 詳細については、[Microsoft Sentinel のオンボーディング](https://learn.microsoft.com/azure/sentinel/quickstart-onboard)を参照してください。
-
+>**注**:Skillable 環境を利用している場合、(LabUser-XXXXXXXXX@LODSPRODMCA.onmicrosoft.com)のアカウントでログインしている必要があります。
   1. Azure portal で、`Microsoft Sentinel` を検索して選択します。
   1. **[+ 作成]** を選択します。
   1. **[新しいワークスペースの作成]** を選択します。
